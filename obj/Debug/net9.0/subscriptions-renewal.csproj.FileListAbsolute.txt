@@ -1,0 +1,15 @@
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\bin\Debug\net9.0\subscriptions-renewal.exe
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\bin\Debug\net9.0\subscriptions-renewal.deps.json
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\bin\Debug\net9.0\subscriptions-renewal.runtimeconfig.json
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\bin\Debug\net9.0\subscriptions-renewal.dll
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\bin\Debug\net9.0\subscriptions-renewal.pdb
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\obj\Debug\net9.0\subscriptions-renewal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\obj\Debug\net9.0\subscriptions-renewal.AssemblyInfoInputs.cache
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\obj\Debug\net9.0\subscriptions-renewal.AssemblyInfo.cs
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\obj\Debug\net9.0\subscriptions-renewal.csproj.CoreCompileInputs.cache
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\obj\Debug\net9.0\subscriptions-renewal.sourcelink.json
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\obj\Debug\net9.0\subscriptions-renewal.dll
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\obj\Debug\net9.0\refint\subscriptions-renewal.dll
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\obj\Debug\net9.0\subscriptions-renewal.pdb
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\obj\Debug\net9.0\subscriptions-renewal.genruntimeconfig.cache
+E:\Users\Arief\Coding\c sharp\subscriptions-renewal\obj\Debug\net9.0\ref\subscriptions-renewal.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "subscriptions-renewal/1.0.0": {
+        "runtime": {
+          "subscriptions-renewal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "subscriptions-renewal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
